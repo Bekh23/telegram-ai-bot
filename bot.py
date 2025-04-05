@@ -1,7 +1,7 @@
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
-TOKEN = "SIZNING_BOT_TOKEN"
+TOKEN = "7904549978:AAE0qzaUAYjEU7zlgwsOyteHIOI5is-Deik"
 
 AI_STYLES = """
 🎨 *AI Style’lar ro‘yxati:*
